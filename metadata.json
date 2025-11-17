@@ -1,0 +1,5 @@
+{
+  "name": "Pooja's Birthday Run",
+  "description": "An application for runners to sign up and join Pooja's birthday run at various stops along the route from Saratoga to Los Gatos. Participants can see estimated arrival times and join for different segments of the run.",
+  "requestFramePermissions": []
+}
