@@ -18,6 +18,9 @@
     "typescript": "~5.8.2",
     "vite": "^6.2.0",
     "grunt": "^1.0.0",
-    "grunt-cli": "^1.4.3"
+    "grunt-cli": "^1.4.3",
+    "gulp": "^4.0.2",     // The main Gulp package
+    "gulp-cli": "^2.3.0"  // The Gulp Command Line Interface
+    
   }
 }
