@@ -1,5 +1,4 @@
-import React from 'react';
-import { Stop } from './types';
+import type { Stop } from './types';
 
 export const RUN_STOPS: Stop[] = [
   {
@@ -86,7 +85,7 @@ export const RUN_STOPS: Stop[] = [
     id: 9,
     name: "Finish Line: Los Gatos Cafe",
     address: "340 N Santa Cruz Ave, Los Gatos, CA",
-    estimatedTime: "11:45 PM",
+    estimatedTime: "11:45 AM",
     segmentDistance: "1.8 miles",
     totalDistance: "13.6 miles",
     isEndpoint: true,

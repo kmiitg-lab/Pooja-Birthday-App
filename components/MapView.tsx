@@ -1,5 +1,5 @@
 import React from 'react';
-import { Stop } from '../types';
+import type { Stop } from '../types';
 
 interface MapViewProps {
   stops: Stop[];

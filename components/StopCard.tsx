@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Stop } from '../types';
+import type { Stop } from '../types';
 import { ClockIcon, PinIcon, RunIcon, TrophyIcon } from '../constants';
 
 interface StopCardProps {

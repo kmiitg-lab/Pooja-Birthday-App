@@ -3,7 +3,7 @@ import Header from './components/Header';
 import StopCard from './components/StopCard';
 import MapView from './components/MapView';
 import { RUN_STOPS } from './constants';
-import { Stop, Participant } from './types';
+import type { Stop, Participant } from './types';
 
 const App: React.FC = () => {
   const [stops, setStops] = useState<Stop[]>(RUN_STOPS);
